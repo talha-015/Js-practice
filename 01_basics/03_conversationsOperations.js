@@ -10,8 +10,8 @@
 
 
 
- //"50" => 33
- // "50abc" => NaN
+ //"33" => 33
+ // "33abc" => NaN
  // in boolean like true  =>1; false => 0
  // when we use 1 means that => true, 0 => false
  // empty strings "" => false
